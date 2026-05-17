@@ -1,6 +1,6 @@
 aid: crane
 name: Crane
-x-type: company
+kind: company
 description: >-
   Crane Co. (NYSE: CR) and its sister company Crane NXT (NYSE: CXT) are
   industrial manufacturing companies that resulted from the 2023 split of the

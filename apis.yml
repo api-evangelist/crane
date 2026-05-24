@@ -57,6 +57,8 @@ common:
     url: https://www.linkedin.com/company/crane-co/
   - type: CraneNXTLinkedIn
     url: https://www.linkedin.com/company/crane-nxt/
+  - type: LLMsTxt
+    url: https://craneco.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

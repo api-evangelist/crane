@@ -11,7 +11,7 @@ description: >-
   including currency, banknote, and authentication products. No public APIs or
   developer portals are published; integrations with industrial customers are
   arranged through enterprise channels.
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/crane/refs/heads/main/apis.yml
 type: Index
 access: 3rd-Party

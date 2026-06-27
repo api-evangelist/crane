@@ -58,7 +58,7 @@ common:
     url: https://www.linkedin.com/company/crane-co/
   - type: CraneNXTLinkedIn
     url: https://www.linkedin.com/company/crane-nxt/
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://craneco.com/llms.txt
 maintainers:
   - FN: Kin Lane

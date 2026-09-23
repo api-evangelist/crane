@@ -1,7 +1,9 @@
 ---
 title: Artificial intelligence and the leadership lens
 url: https://www.cranebriefing.com/news/artificial-intelligence-and-the-leadership-lens/8121052.article
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Crane" press release artificial intelligence'
 position: 4
 source: serpapi-google

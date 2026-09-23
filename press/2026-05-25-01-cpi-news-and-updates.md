@@ -1,7 +1,9 @@
 ---
 title: CPI News and Updates
 url: https://www.cranepi.com/en/news
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Crane" press release artificial intelligence'
 position: 1
 source: serpapi-google
